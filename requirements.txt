@@ -2,4 +2,4 @@ fastapi
 pyrebase 
 firebase-admin
 python-dotenv
-uvirorn
+uvicorn
