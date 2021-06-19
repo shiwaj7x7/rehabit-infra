@@ -1,0 +1,4 @@
+fastapi
+pyrebase 
+firebase-admin
+dotenv
