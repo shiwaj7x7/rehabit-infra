@@ -19,7 +19,7 @@ with open(join(dirname(__file__), 'fbadmin.json'),'w') as f:
 app = FastAPI()
 
 # Firebase connections
-cred = credentials.Certificate('fbAdmin.json')
+cred = credentials.Certificate('fbadmin.json')
 firebase = firebase_admin.initialize_app(cred)
 os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = './fbadmin.json'
 db = firestore.Client()
