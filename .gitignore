@@ -1,6 +1,2 @@
 .env
 __pycache__/
-fbadmin.json
-firebase.json
-fbadmin_bk.json
-firebase_bk.json
