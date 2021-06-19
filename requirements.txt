@@ -3,3 +3,4 @@ pyrebase
 firebase-admin
 python-dotenv
 uvicorn
+requests==2.25.1
