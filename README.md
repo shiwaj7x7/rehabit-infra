@@ -9,6 +9,11 @@ This repo holds the backend code for @rehabit API services
 4. Starlette
 5. Uvicorn
 
+## Starting Dev instance:
+```
+uvicorn app:app --reload
+```
+
 ## ToDo:
 - [x] Create firebase app 
 - [x] Add requirements.txt
