@@ -17,4 +17,4 @@ uvicorn app:app --reload
 ## ToDo:
 - [x] Create firebase app 
 - [x] Add requirements.txt
-- [ ] Deploy to heroku
+- [x] Deploy to heroku
